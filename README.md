@@ -1,6 +1,6 @@
 # facemask-detection
 
-facedetection using pretrained mobilenetv2 and opencv.
+face mask detection using pretrained mobilenetv2 and opencv.
 
 1.Clone the repository
 
